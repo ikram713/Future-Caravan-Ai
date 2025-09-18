@@ -1,0 +1,66 @@
+Date,DishName,QuantitySold,Temperature,Weather,DayOfWeek
+2025-01-01,Hrira,18,8,Rainy,Wednesday
+2025-01-01,Soup,12,8,Rainy,Wednesday
+2025-01-01,Chorba,9,8,Rainy,Wednesday
+2025-01-01,Couscous,22,8,Rainy,Wednesday
+2025-01-01,Tajine,14,8,Rainy,Wednesday
+2025-01-02,Hrira,20,5,Rainy,Thursday
+2025-01-02,Hot drink,15,5,Rainy,Thursday
+2025-01-02,Chorba,11,5,Rainy,Thursday
+2025-01-02,Loubia,8,5,Rainy,Thursday
+2025-01-02,Couscous,17,5,Rainy,Thursday
+2025-01-03,Hrira,15,10,Rainy,Friday
+2025-01-03,Soup,19,10,Rainy,Friday
+2025-01-03,Tajine,16,10,Rainy,Friday
+2025-01-03,Loubia,7,10,Rainy,Friday
+2025-01-03,Hot drink,21,10,Rainy,Friday
+2025-01-04,Soup,23,7,Rainy,Saturday
+2025-01-04,Hrira,14,7,Rainy,Saturday
+2025-01-04,Couscous,20,7,Rainy,Saturday
+2025-01-04,Chorba,10,7,Rainy,Saturday
+2025-01-04,Tajine,13,7,Rainy,Saturday
+2025-01-05,Hrira,16,9,Rainy,Sunday
+2025-01-05,Hot drink,18,9,Rainy,Sunday
+2025-01-05,Loubia,6,9,Rainy,Sunday
+2025-01-05,Couscous,24,9,Rainy,Sunday
+2025-01-05,Soup,11,9,Rainy,Sunday
+2025-04-01,Pasta,22,22,Sunny,Tuesday
+2025-04-01,Cheesecake,19,22,Sunny,Tuesday
+2025-04-01,Salads,14,22,Sunny,Tuesday
+2025-04-01,Mint tea,16,22,Sunny,Tuesday
+2025-04-01,Couscous with pumpkin,25,22,Sunny,Tuesday
+2025-04-02,Pasta,18,24,Sunny,Wednesday
+2025-04-02,Salads,12,24,Sunny,Wednesday
+2025-04-02,Pumpkin Soup,15,24,Sunny,Wednesday
+2025-04-02,Cappuccino,10,24,Sunny,Wednesday
+2025-04-02,Cheesecake,20,24,Sunny,Wednesday
+2025-04-03,Mint tea,21,20,Sunny,Thursday
+2025-04-03,Pasta,13,20,Sunny,Thursday
+2025-04-03,Salads,17,20,Sunny,Thursday
+2025-04-03,Cheesecake,15,20,Sunny,Thursday
+2025-04-03,Couscous with pumpkin,23,20,Sunny,Thursday
+2025-07-01,Ice Cream,28,33,Hot,Tuesday
+2025-07-01,Cold drinks,35,33,Hot,Tuesday
+2025-07-01,Fresh juices,30,33,Hot,Tuesday
+2025-07-01,Iced coffee,18,33,Hot,Tuesday
+2025-07-01,Lemonade,32,33,Hot,Tuesday
+2025-07-02,Ice Cream,25,35,Hot,Wednesday
+2025-07-02,Cold drinks,31,35,Hot,Wednesday
+2025-07-02,Seafood,20,35,Hot,Wednesday
+2025-07-02,Warm dessert,15,35,Hot,Wednesday
+2025-07-02,Lemonade,28,35,Hot,Wednesday
+2025-07-03,Fresh juices,27,30,Hot,Thursday
+2025-07-03,Iced coffee,22,30,Hot,Thursday
+2025-07-03,Seafood,19,30,Hot,Thursday
+2025-07-03,Ice Cream,24,30,Hot,Thursday
+2025-07-03,Cold drinks,29,30,Hot,Thursday
+2025-10-01,Pasta,20,23,Sunny,Wednesday
+2025-10-01,Cheesecake,17,23,Sunny,Wednesday
+2025-10-01,Salads,15,23,Sunny,Wednesday
+2025-10-01,Mint tea,19,23,Sunny,Wednesday
+2025-10-01,Cappuccino,12,23,Sunny,Wednesday
+2025-10-02,Couscous with pumpkin,26,21,Sunny,Thursday
+2025-10-02,Pumpkin Soup,14,21,Sunny,Thursday
+2025-10-02,Pasta,11,21,Sunny,Thursday
+2025-10-02,Salads,16,21,Sunny,Thursday
+2025-10-02,Cheesecake,22,21,Sunny,Thursday

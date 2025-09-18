@@ -1,0 +1,42 @@
+[
+    {
+        "Dish": "Couscous with pumpkin",
+        "PredictedQuantity": 24,
+        "Date": "2025-09-19",
+        "Day": "Friday",
+        "Weather": "Sunny",
+        "Temperature": 23.7
+    },
+    {
+        "Dish": "Cold drinks",
+        "PredictedQuantity": 20,
+        "Date": "2025-09-19",
+        "Day": "Friday",
+        "Weather": "Sunny",
+        "Temperature": 23.7
+    },
+    {
+        "Dish": "Cheesecake",
+        "PredictedQuantity": 19,
+        "Date": "2025-09-19",
+        "Day": "Friday",
+        "Weather": "Sunny",
+        "Temperature": 23.7
+    },
+    {
+        "Dish": "Fresh juices",
+        "PredictedQuantity": 19,
+        "Date": "2025-09-19",
+        "Day": "Friday",
+        "Weather": "Sunny",
+        "Temperature": 23.7
+    },
+    {
+        "Dish": "Ice Cream",
+        "PredictedQuantity": 19,
+        "Date": "2025-09-19",
+        "Day": "Friday",
+        "Weather": "Sunny",
+        "Temperature": 23.7
+    }
+]
